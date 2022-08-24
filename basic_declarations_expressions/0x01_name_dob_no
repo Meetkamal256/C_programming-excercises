@@ -2,6 +2,8 @@
 
 int main(void)
 {
-    
+    printf("Name: Muhammad Kamaluddeen");
+    printf("DOB: 12th october, 1996");
+    printf("phone no: 09047992192");
     return (0);
 }
